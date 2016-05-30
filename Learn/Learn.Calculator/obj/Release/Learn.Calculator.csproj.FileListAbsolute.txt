@@ -1,0 +1,5 @@
+D:\Practice\Learn\Learn.Calculator\bin\Release\Learn.Calculator.dll
+D:\Practice\Learn\Learn.Calculator\bin\Release\Learn.Calculator.pdb
+D:\Practice\Learn\Learn.Calculator\obj\Release\Learn.Calculator.csprojResolveAssemblyReference.cache
+D:\Practice\Learn\Learn.Calculator\obj\Release\Learn.Calculator.dll
+D:\Practice\Learn\Learn.Calculator\obj\Release\Learn.Calculator.pdb

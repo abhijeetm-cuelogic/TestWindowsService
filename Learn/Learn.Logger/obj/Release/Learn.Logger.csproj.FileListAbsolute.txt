@@ -1,0 +1,5 @@
+D:\Practice\Learn\Learn.Logger\bin\Release\Learn.Logger.dll
+D:\Practice\Learn\Learn.Logger\bin\Release\Learn.Logger.pdb
+D:\Practice\Learn\Learn.Logger\obj\Release\Learn.Logger.csprojResolveAssemblyReference.cache
+D:\Practice\Learn\Learn.Logger\obj\Release\Learn.Logger.dll
+D:\Practice\Learn\Learn.Logger\obj\Release\Learn.Logger.pdb

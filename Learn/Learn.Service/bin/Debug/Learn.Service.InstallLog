@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\Practice\Learn\Learn.Service\bin\Debug\Learn.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Practice\Learn\Learn.Service\bin\Debug\Learn.Service.InstallLog
+   assemblypath = D:\Practice\Learn\Learn.Service\bin\Debug\Learn.Service.exe
+Installing service Calculator...
+Service Calculator has been successfully installed.
+Creating EventLog source Calculator in log Application...
+Committing assembly 'D:\Practice\Learn\Learn.Service\bin\Debug\Learn.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Practice\Learn\Learn.Service\bin\Debug\Learn.Service.InstallLog
+   assemblypath = D:\Practice\Learn\Learn.Service\bin\Debug\Learn.Service.exe
