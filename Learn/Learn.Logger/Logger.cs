@@ -15,7 +15,7 @@ namespace Learn.Logger
             try
             {
                 sw = new StreamWriter(AppDomain.CurrentDomain.BaseDirectory + "\\LogFile.txt", true);
-                sw.WriteLine(DateTime.Now.ToString() + ": " + message);
+                sw.WriteLine(DateTime.Now.ToString() + " : " + message);
                 sw.Flush();
                 sw.Close();
             }
@@ -30,7 +30,7 @@ namespace Learn.Logger
             try
             {
                 sw = new StreamWriter(AppDomain.CurrentDomain.BaseDirectory + "\\LogFile.txt", true);
-                sw.WriteLine(DateTime.Now.ToString() + ": " + ex.Source.ToString().Trim() + "; " + ex.Message.ToString().Trim());
+                sw.WriteLine(DateTime.Now.ToString() + " : " + ex.Source.ToString().Trim() + "; " + ex.Message.ToString().Trim());
                 sw.Flush();
                 sw.Close();
             }

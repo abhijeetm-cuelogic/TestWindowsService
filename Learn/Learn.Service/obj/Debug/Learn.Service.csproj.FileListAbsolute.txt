@@ -14,3 +14,13 @@ D:\Practice\Learn\Learn.Service\obj\Debug\Learn.Service.pdb
 D:\Practice\TestWindowsService\Learn\Learn.Service\bin\Debug\Learn.Service.exe.config
 D:\Practice\TestWindowsService\Learn\Learn.Service\obj\Debug\Learn.Service.exe
 D:\Practice\TestWindowsService\Learn\Learn.Service\obj\Debug\Learn.Service.pdb
+D:\Practice\TestWindowsService\Learn\Learn.Service\bin\Debug\Learn.Service.exe
+D:\Practice\TestWindowsService\Learn\Learn.Service\bin\Debug\Learn.Service.pdb
+D:\Practice\TestWindowsService\Learn\Learn.Service\bin\Debug\Learn.Calculator.dll
+D:\Practice\TestWindowsService\Learn\Learn.Service\bin\Debug\Learn.Logger.dll
+D:\Practice\TestWindowsService\Learn\Learn.Service\bin\Debug\Learn.Calculator.pdb
+D:\Practice\TestWindowsService\Learn\Learn.Service\bin\Debug\Learn.Logger.pdb
+D:\Practice\TestWindowsService\Learn\Learn.Service\obj\Debug\Learn.Service.csprojResolveAssemblyReference.cache
+D:\Practice\TestWindowsService\Learn\Learn.Service\obj\Debug\Learn.Service.Calc.resources
+D:\Practice\TestWindowsService\Learn\Learn.Service\obj\Debug\Learn.Service.ProjectInstaller.resources
+D:\Practice\TestWindowsService\Learn\Learn.Service\obj\Debug\Learn.Service.csproj.GenerateResource.Cache
